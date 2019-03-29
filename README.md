@@ -1,5 +1,5 @@
-# Competitive-Programming--Bootcamp
+# Competitive Programming Bootcamp
 
-## Implementations of  Competitive Programming, Algorithm Design and Data Structure problems
+## Algorithm Design tricks and Data Structure problems for Competitive Programming
 
 My collection of solutions  to various data structures and algorithms problems
